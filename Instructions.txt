@@ -1,0 +1,10 @@
+<----- Instructions ------>
+
+Step1: Install the packages
+Step2: Mount the package 'drive.mount' link to the google drive
+Step3: Create a new folder 'datasets'
+Step4: Download 'Tweets.csv' and 'database.sqlite' from kaggle and place them into 'datasets' folder.
+
+
+<----------- To be Continued ----->
+
